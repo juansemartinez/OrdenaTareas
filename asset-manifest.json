@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OrdenaTareas/static/css/main.e31b4796.chunk.css",
+    "main.js": "/OrdenaTareas/static/js/main.d8a69c6a.chunk.js",
+    "main.js.map": "/OrdenaTareas/static/js/main.d8a69c6a.chunk.js.map",
+    "runtime-main.js": "/OrdenaTareas/static/js/runtime-main.412554d9.js",
+    "runtime-main.js.map": "/OrdenaTareas/static/js/runtime-main.412554d9.js.map",
+    "static/js/2.de03e7c1.chunk.js": "/OrdenaTareas/static/js/2.de03e7c1.chunk.js",
+    "static/js/2.de03e7c1.chunk.js.map": "/OrdenaTareas/static/js/2.de03e7c1.chunk.js.map",
+    "index.html": "/OrdenaTareas/index.html",
+    "precache-manifest.e27e7b4814c3512bd2d40c0991a8bff2.js": "/OrdenaTareas/precache-manifest.e27e7b4814c3512bd2d40c0991a8bff2.js",
+    "service-worker.js": "/OrdenaTareas/service-worker.js",
+    "static/css/main.e31b4796.chunk.css.map": "/OrdenaTareas/static/css/main.e31b4796.chunk.css.map",
+    "static/js/2.de03e7c1.chunk.js.LICENSE.txt": "/OrdenaTareas/static/js/2.de03e7c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.412554d9.js",
+    "static/js/2.de03e7c1.chunk.js",
+    "static/css/main.e31b4796.chunk.css",
+    "static/js/main.d8a69c6a.chunk.js"
+  ]
+}
